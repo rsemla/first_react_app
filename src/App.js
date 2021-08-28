@@ -7,13 +7,13 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          <ul>
-          <li>Name: Ryan Semla</li>
-          
-          <li>Ideal Job Title: Lead Video Game Developer</li>
+           Name: Ryan Semla<br>
 
-            <li>Favorite Number: 24</li>
-          </ul>
+          </br> Job Title: Lead Video Game Developer<br>
+
+        </br>Favorite Number: 24<br>
+
+        </br>
         </p>
         <a
           className="App-link"
